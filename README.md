@@ -27,7 +27,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 ### 2019.3.31
 **[9]** Xu, Ju, and Zhanxing Zhu. **Reinforced continual learning.** Advances in Neural Information Processing Systems. 2018.[link](https://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)
 
-### 20119.4.1
+### 2019.4.1
 **[10]** Pham, Hieu, et al. **Efficient neural architecture search via parameter sharing.** arXiv preprint arXiv:1802.03268 (2018).[link](https://arxiv.org/pdf/1802.03268.pdf?fbclid=IwAR1RHoGyzFPepWpSyNA1TcySIjEto2scD7Fg3Pk6KOUygRNKXiA_r68MIkI)
 
 
