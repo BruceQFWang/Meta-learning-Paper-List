@@ -1,4 +1,4 @@
-# Meta-learning-Paper-List
+# Meta learning/Learning to learn
 
 ### Top
 Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/item?id=1055389)
