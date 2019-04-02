@@ -4,7 +4,7 @@
 Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/item?id=1055389)
 
 ### 2019.3.19
-**[1]** Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent.** Advances in Neural Information Processing Systems. 2016. [link](https://arxiv.org/pdf/1606.04474.pdf)
+**[1]** Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent.** Advances in Neural Information Processing Systems. 2016. [link](https://arxiv.org/pdf/1606.04474.pdf)   使用LSTM学习梯度
 
 
 **[2]** Finn, Chelsea, Pieter Abbeel, and Sergey Levine.**Model-agnostic meta-learning for fast adaptation of deep networks.** Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.[link](https://arxiv.org/pdf/1703.03400.pdf)
@@ -30,4 +30,6 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 ### 2019.4.1
 **[10]** Pham, Hieu, et al. **Efficient neural architecture search via parameter sharing.** arXiv preprint arXiv:1802.03268 (2018).[link](https://arxiv.org/pdf/1802.03268.pdf?fbclid=IwAR1RHoGyzFPepWpSyNA1TcySIjEto2scD7Fg3Pk6KOUygRNKXiA_r68MIkI)
 
+### 2019.4.2
+**[11]**
 
