@@ -36,7 +36,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 **[12]** Elsken, Thomas, Jan Hendrik Metzen, and Frank Hutter. **Neural architecture search: A survey.** arXiv preprint arXiv:1808.05377 (2018).[link](https://arxiv.org/pdf/1808.05377.pdf) (很好的一篇NAS的综述)
 
 ### 2019.4.3
-**[13]** Quanming, Yao, et al. "Taking human out of learning applications: A survey on automated machine learning." arXiv preprint arXiv:1810.13306 (2018).[link](https://arxiv.org/pdf/1810.13306.pdf  (一篇不错的AutoML的综述)
+**[13]** Quanming, Yao, et al. **Taking human out of learning applications: A survey on automated machine learning.** arXiv preprint arXiv:1810.13306 (2018).[link](https://arxiv.org/pdf/1810.13306.pdf  (一篇不错的AutoML的综述)
 
 
 
