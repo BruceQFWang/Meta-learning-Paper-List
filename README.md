@@ -39,7 +39,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 **[13]** Quanming, Yao, et al. **Taking human out of learning applications: A survey on automated machine learning.** arXiv preprint arXiv:1810.13306 (2018).[link](https://arxiv.org/pdf/1810.13306.pdf  (一篇不错的AutoML的综述)
 
 ### 2019.4.9
-**[14]** Nichol, Alex, Joshua Achiam, and John Schulman. **On first-order meta-learning algorithms.** arXiv preprint arXiv:1803.02999 (2018).[link](https://arxiv.org/pdf/1803.02999.pdf)  (两篇分析并拓展MAML算法的文章，reptile)
+**[14]** Nichol, Alex, Joshua Achiam, and John Schulman. **On first-order meta-learning algorithms.** arXiv preprint arXiv:1803.02999 (2018).[link](https://arxiv.org/pdf/1803.02999.pdf)  (两篇分析并拓展MAML算法的文章，reptile版本)
 
 **[15]** Antoniou, Antreas, Harrison Edwards, and Amos Storkey. **How to train your MAML.** arXiv preprint arXiv:1810.09502 (2018).[link](https://arxiv.org/pdf/1810.09502.pdf)  (两篇分析并拓展MAML算法的文章)
 
