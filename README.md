@@ -43,7 +43,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 
 **[15]** Antoniou, Antreas, Harrison Edwards, and Amos Storkey. **How to train your MAML.** arXiv preprint arXiv:1810.09502 (2018).[link](https://arxiv.org/pdf/1810.09502.pdf)  (三篇分析并拓展MAML算法的文章)
 
-**[16]** Nichol, Alex, and John Schulman. **Reptile: a scalable metalearning algorithm.** arXiv preprint arXiv:1803.02999 2 (2018).[link](https://arxiv.org/pdf/1803.02999.pdf)
+**[16]** Nichol, Alex, and John Schulman. **Reptile: a scalable metalearning algorithm.** arXiv preprint arXiv:1803.02999 2 (2018).[link](https://arxiv.org/pdf/1803.02999.pdf) (三篇分析并拓展MAML算法的文章)
 
 
 
