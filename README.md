@@ -44,7 +44,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 **[15]** Antoniou, Antreas, Harrison Edwards, and Amos Storkey. **How to train your MAML.** arXiv preprint arXiv:1810.09502 (2018).[link](https://arxiv.org/pdf/1810.09502.pdf)  (两篇分析并拓展MAML算法的文章)
 
 ### 2019.4.17
-Frank Hutter, Lars Kotthoff, Joaquin Vanschoren**Automatic Machine Learning:Methods, Systems, Challenges**[link](https://www.automl.org/book/)     (automl介绍全面的书)
+**[16]** Frank Hutter, Lars Kotthoff, Joaquin Vanschoren**Automatic Machine Learning:Methods, Systems, Challenges** .[link](https://www.automl.org/book/) (automl介绍全面的书)
 
 
 
