@@ -18,7 +18,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 
 **[6]** Vinyals, Oriol, et al. **Matching networks for one shot learning.** Advances in neural information processing systems. 2016.[link](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)  (四种度量网络的一个)
 
-**[7]** Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. **Siamese neural networks for one-shot image recognition.** ICML Deep Learning Workshop. Vol. 2. 2015.[link](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)
+**[7]** Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. **Siamese neural networks for one-shot image recognition.** ICML Deep Learning Workshop. Vol. 2. 2015.[link](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf) (孪生网络)
 
 ### 2019.3.27
 **[8]** Ravi, Sachin, and Hugo Larochelle. **Optimization as a model for few-shot learning.** (2016).[link](https://openreview.net/pdf?id=rJY0-Kcll) 
