@@ -46,7 +46,8 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 ### 2019.4.17
 **[16]** Frank Hutter, Lars Kotthoff, Joaquin Vanschoren**Automatic Machine Learning:Methods, Systems, Challenges** .[link](https://www.automl.org/book/) (automl介绍全面的书)
 
-
+## 2019.4.18
+**[17]** Dong, Jianfeng, et al. **Dual Encoding for Zero-Example Video Retrieval.** CVPR, 2019. [link](http://lixirong.net/pub/cvpr2019-dense-encoding.pdf) (孪生网络在零样本学习的应用，视频检索)
 
 
 
