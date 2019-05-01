@@ -50,5 +50,8 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 **[17]** Dong, Jianfeng, et al. **Dual Encoding for Zero-Example Video Retrieval.** CVPR, 2019. [link](http://lixirong.net/pub/cvpr2019-dense-encoding.pdf) (孪生网络在零样本学习的应用，视频检索)
 
 ### 2019.4.28
-**[18]** Frans K, Ho J, Chen X, et al. **Meta learning shared hierarchies[J].** arXiv preprint arXiv:1710.09767, 2017. [link](https://arxiv.org/pdf/1710.09767.pdf)
+**[18]** Frans K, Ho J, Chen X, et al. **Meta learning shared hierarchies[J].** arXiv preprint arXiv:1710.09767, 2017. [link](https://arxiv.org/pdf/1710.09767.pdf)  (openai天才高中生)
+
+### 2019.5.1
+**[19]** Wang, Duo, et al. **A Hybrid Approach with Optimization-Based and Metric-Based Meta-Learner for Few-Shot Learning.** Neurocomputing (2019).[link](https://arxiv.org/pdf/1904.03014.pdf) (MAML训练feature extractor,meta classifier做分类)
 
