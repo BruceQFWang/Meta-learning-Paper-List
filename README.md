@@ -55,3 +55,6 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 ### 2019.5.1
 **[19]** Wang, Duo, et al. **A Hybrid Approach with Optimization-Based and Metric-Based Meta-Learner for Few-Shot Learning.** Neurocomputing (2019).[link](https://arxiv.org/pdf/1904.03014.pdf) (MAML训练feature extractor,meta classifier做分类)
 
+### 2019.5.6
+**[20]**  Yingtian Zou , Jiashi Feng. **Hierarchical Meta Learning.** arXiv preprint arXiv:1904.09081v1, 2019. [link](https://arxiv.org/pdf/1904.09081v1.pdf)  (在MAML的基础上考虑不相似的domain)
+
