@@ -60,3 +60,7 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 
 ### 2019.5.10
 **[20]**  Mikhail Khodak, Maria-Florina Balcan, Ameet Talwalkar. **Provable Guarantees for Gradient-Based Meta-Learning.** arXiv preprint arXiv:1902.10644, 2019. [link](https://arxiv.org/pdf/1902.10644.pdf)  (ICML2019)
+
+
+### 2019.5.11
+**[21]** Meta-Learning: Learning to Learn Fast[link](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) (一个简单介绍元学习STOA方法的博客)
