@@ -3,6 +3,11 @@
 ### Top
 Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/item?id=1055389)
 
+## Papers
+
+### 2022
+- <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**ICLR2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
+
 ### 2019.3.19
 **[1]** Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent.** Advances in Neural Information Processing Systems. 2016. [link](https://arxiv.org/pdf/1606.04474.pdf)   (使用LSTM学习梯度)
 
