@@ -6,7 +6,27 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 ## Papers
 
 ### 2022
-- <a name="todo"></a> Learngene: From Open-World to Your Learning Task (**ICLR2022**) [[paper](https://arxiv.org/pdf/2106.06788.pdf)]
+- <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
+- <a name="todo"></a> Continuous-Time Meta-Learning with Forward Mode Differentiation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=57PipS27Km)]
+- <a name="todo"></a> Finetuned Language Models are Zero-Shot Learners (**ICLR2022**) [[paper](https://openreview.net/pdf?id=gEZrGCozdqR)]
+- <a name="todo"></a> How to Train Your MAML to Excel in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=49h_IkpJtaE)]
+- <a name="todo"></a> Task Affinity with Maximum Bipartite Matching in Few-Shot Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=u2GZOiUTbt)]
+- <a name="todo"></a> Bootstrapped Meta-Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=b-ny3x071E5)]
+- <a name="todo"></a> Meta-Learning with Fewer Tasks through Task Interpolation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=ajXWF7bVR8d)]
+- <a name="todo"></a> Vision-Based Manipulators Need to Also See from Their Hands (**ICLR2022**) [[paper](https://openreview.net/pdf?id=RJkAHKp7kNZ)]
+- <a name="todo"></a> Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners (**ICLR2022**) [[paper](https://openreview.net/pdf?id=u2GZOiUTbt)]
+- <a name="todo"></a> Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=boJy41J-tnQ)]
+- <a name="todo"></a> ConFeSS: A Framework for Single Source Cross-Domain Few-Shot Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=zRJu6mU2BaE)]
+- <a name="todo"></a> Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=p3DKPQ7uaAi)]
+- <a name="todo"></a>  LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5 (**ICLR2022**) [[paper](https://openreview.net/pdf?id=HCRVf71PMF)]
+- <a name="todo"></a>  Few-shot Learning via Dirichlet Tessellation Ensemble (**ICLR2022**) [[paper](https://openreview.net/pdf?id=6kCiVaoQdx9)]
+- <a name="todo"></a>  Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization (**ICLR2022**) [[paper](https://openreview.net/pdf?id=dDo8druYppX)]
+- <a name="todo"></a>  Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=H-iABMvzIc)]
+- <a name="todo"></a>  On the Role of Neural Collapse in Transfer Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=SwIp410B6aQ)]
+- <a name="todo"></a>  Generalizing Few-Shot NAS with Gradient Matching (**ICLR2022**) [[paper](https://openreview.net/pdf?id=_jMtny3sMKU)]
+
+
+
 
 ### 2019.3.19
 **[1]** Andrychowicz, Marcin, et al. **Learning to learn by gradient descent by gradient descent.** Advances in Neural Information Processing Systems. 2016. [link](https://arxiv.org/pdf/1606.04474.pdf)   (使用LSTM学习梯度)
