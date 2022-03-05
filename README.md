@@ -52,6 +52,11 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  SUMNAS: Supernet with Unbiased Meta-Features for Neural Architecture Search (**ICLR2022**) [[paper](https://openreview.net/pdf?id=Z8FzvVU6_Kj)]
 - <a name="todo"></a>  Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities (**ICLR2022**) [[paper](https://openreview.net/pdf?id=zBOI9LFpESK)]
 - <a name="todo"></a>  Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients (**ICLR2022**) [[paper](https://openreview.net/pdf?id=AIgn9uwfcD1)]
+- <a name="todo"></a>  Online Hyperparameter Meta-Learning with Hypergradient Distillation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=01AMRlen9wJ)]
+- <a name="todo"></a>  Task Relatedness-Based Generalization Bounds for Meta Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=A3HHaEdqAJL)]
+- <a name="todo"></a>  Bootstrapped Meta-Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=b-ny3x071E5)]
+
+
 
 
 ### 2019.3.19
