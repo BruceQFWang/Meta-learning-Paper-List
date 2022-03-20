@@ -68,6 +68,13 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Meta-Adaptive Nonlinear Control: Theory and Algorithms  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/52fc2aee802efbad698503d28ebd3a1f-Abstract.html)]
 - <a name="todo"></a>  Meta-Learning Sparse Implicit Neural Representations    (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/61b1fb3f59e28c67f3925f3c79be81a1-Abstract.html)]
 
+- <a name="todo"></a>  Meta Learning Backpropagation And Improving It   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/7608de7a475c0c878f60960d72a92654-Abstract.html)]
+- <a name="todo"></a>  Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning(**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/7b3403f79b478699224bb449509694cf-Abstract.html)]
+- <a name="todo"></a>  Noether Networks: meta-learning useful conserved quantities  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/886ad506e0c115cf590d18ebb6c26561-Abstract.html)]
+- <a name="todo"></a>  Statistically and Computationally Efficient Linear Meta-representation Learning   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/99e7e6ce097324aceb45f98299ceb621-Abstract.html)]
+- <a name="todo"></a>  On sensitivity of meta-learning to support data   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html)]
+- <a name="todo"></a>  Meta Internal Learning    (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ac796a52db3f16bbdb6557d3d89d1c5a-Abstract.html)]
+
 
 
 ### 2019.3.19
