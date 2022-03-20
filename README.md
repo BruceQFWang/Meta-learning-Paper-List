@@ -61,6 +61,12 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/1e932f24dc0aa4e7a6ac2beec387416d-Abstract.html)]
 - <a name="todo"></a>  Learning where to learn: Gradient sparsity in meta and continual learning  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/2a10665525774fa2501c2c8c4985ce61-Abstract.html)]
 - <a name="todo"></a>  Generalization of Model-Agnostic Meta-Learning Algorithms: Recurring and Unseen Tasks   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/2b763288faedb7707c0748abe015ab6c-Abstract.html)]
+- <a name="todo"></a>  Meta Two-Sample Testing: Learning Kernels for Testing with Limited Data  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/2e6d9c6052e99fcdfa61d9b9da273ca2-Abstract.html)]
+- <a name="todo"></a>  Meta-learning with an Adaptive Task Scheduler  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/3dc4876f3f08201c7c76cb71fa1da439-Abstract.html)]
+- <a name="todo"></a>  Towards Enabling Meta-Learning from Target Models  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/43baa6762fa81bb43b39c62553b2970d-Abstract.html)]
+- <a name="todo"></a>  How Fine-Tuning Allows for Effective Meta-Learning   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/4a533591763dfa743a13affab1a85793-Abstract.html)]
+- <a name="todo"></a>  Meta-Adaptive Nonlinear Control: Theory and Algorithms  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/52fc2aee802efbad698503d28ebd3a1f-Abstract.html)]
+- <a name="todo"></a>  Meta-Learning Sparse Implicit Neural Representations    (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/61b1fb3f59e28c67f3925f3c79be81a1-Abstract.html)]
 
 
 
