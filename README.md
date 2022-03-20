@@ -55,7 +55,12 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Online Hyperparameter Meta-Learning with Hypergradient Distillation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=01AMRlen9wJ)]
 - <a name="todo"></a>  Task Relatedness-Based Generalization Bounds for Meta Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=A3HHaEdqAJL)]
 - <a name="todo"></a>  Bootstrapped Meta-Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=b-ny3x071E5)]
-
+- <a name="todo"></a>  Fast Training of Neural Lumigraph Representations using Meta Learning (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/01931a6925d3de09e5f87419d9d55055-Abstract.html)]
+- <a name="todo"></a>  Generalization Bounds for Meta-Learning via PAC-Bayes and Uniform Stability (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/1102a326d5f7c9e04fc3c89d0ede88c9-Abstract.html)]
+- <a name="todo"></a>  MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/1680829293f2a8541efa2647a0290f88-Abstract.html)]
+- <a name="todo"></a>  Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/1e932f24dc0aa4e7a6ac2beec387416d-Abstract.html)]
+- <a name="todo"></a>  Learning where to learn: Gradient sparsity in meta and continual learning  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/2a10665525774fa2501c2c8c4985ce61-Abstract.html)]
+- <a name="todo"></a>  Generalization of Model-Agnostic Meta-Learning Algorithms: Recurring and Unseen Tasks   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/2b763288faedb7707c0748abe015ab6c-Abstract.html)]
 
 
 
