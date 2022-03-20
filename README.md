@@ -79,6 +79,14 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Meta-learning to Improve Pre-training   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/c3810d4a9513b028fc0f2a83cb6d7b50-Abstract.html)]
 - <a name="todo"></a>  Memory Efficient Meta-Learning with Large Images(**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/cc1aa436277138f61cda703991069eaf-Abstract.html)]
 - <a name="todo"></a>  Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/d9d347f57ae11f34235b4555710547d8-Abstract.html)]
+- <a name="todo"></a>  Bayesian decision-making under misspecified priors with applications to meta-learning (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ddcbe25988981920c872c1787382f04d-Abstract.html)]
+- <a name="todo"></a>  Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media(**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/e234e195f3789f05483378c397db1cb5-Abstract.html)]
+- <a name="todo"></a>  Hardware-adaptive Efficient Latency Prediction for NAS via Meta-Learning   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/e3251075554389fe91d17a794861d47b-Abstract.html)]
+- <a name="todo"></a>  Towards Sample-efficient Overparameterized Meta-learning    (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ed46558a56a4a26b96a68738a0d28273-Abstract.html)]
+- <a name="todo"></a>  Bridging the Gap Between Practice and PAC-Bayes Theory in Few-Shot Meta-Learning (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/f6b6d2a114a9644419dc8d2315f22401-Abstract.html)]
+- <a name="todo"></a>  Discovery of Options via Meta-Learned Subgoals   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/fa246d0262c3925617b0c72bb20eeb1d-Abstract.html)]
+- <a name="todo"></a>  Meta-Learning the Search Distribution of Black-Box Random Search Based Adversarial Attacks (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/fdb55ce855129e05da8374059cc82728-Abstract.html)]
+- <a name="todo"></a>  Meta-Learning for Relative Density-Ratio Estimation (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ff49cc40a8890e6a60f40ff3026d2730-Abstract.html)]
 
 
 
