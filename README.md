@@ -74,6 +74,12 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Statistically and Computationally Efficient Linear Meta-representation Learning   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/99e7e6ce097324aceb45f98299ceb621-Abstract.html)]
 - <a name="todo"></a>  On sensitivity of meta-learning to support data   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html)]
 - <a name="todo"></a>  Meta Internal Learning    (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/ac796a52db3f16bbdb6557d3d89d1c5a-Abstract.html)]
+- - <a name="todo"></a>  Task-Adaptive Neural Network Search with Meta-Contrastive Learning (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/b20bb95ab626d93fd976af958fbc61ba-Abstract.html)]
+- <a name="todo"></a>  Multi-Objective Meta Learning(**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/b23975176653284f1f7356ba5539cfcb-Abstract.html)]
+- <a name="todo"></a>  EvoGrad: Efficient Gradient-Based Meta-Learning and Hyperparameter Optimization  (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/bac49b876d5dfc9cd169c22ef5178ca7-Abstract.html)]
+- <a name="todo"></a>  Meta-learning to Improve Pre-training   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/c3810d4a9513b028fc0f2a83cb6d7b50-Abstract.html)]
+- <a name="todo"></a>  Memory Efficient Meta-Learning with Large Images(**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/cc1aa436277138f61cda703991069eaf-Abstract.html)]
+- <a name="todo"></a>  Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis   (**NeurIPS2022**) [[paper](https://papers.nips.cc/paper/2021/hash/d9d347f57ae11f34235b4555710547d8-Abstract.html)]
 
 
 
