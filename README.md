@@ -55,7 +55,6 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 - <a name="todo"></a>  Online Hyperparameter Meta-Learning with Hypergradient Distillation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=01AMRlen9wJ)]
 - <a name="todo"></a>  Task Relatedness-Based Generalization Bounds for Meta Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=A3HHaEdqAJL)]
 - <a name="todo"></a>  Bootstrapped Meta-Learning (**ICLR2022**) [[paper](https://openreview.net/pdf?id=b-ny3x071E5)]
-<a name="todo"></a> Bootstrapped Meta-Learning (ICLR2022) [paper]
 
 
 
