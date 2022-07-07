@@ -7,23 +7,22 @@ Suggested books by Mike Jordan at Berkeley:[link](https://news.ycombinator.com/i
 
 ### 2022
 - <a name="todo"></a> Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Pushing_the_Limits_of_Simple_Pipelines_for_Few-Shot_Learning_External_CVPR_2022_paper.pdf)]
-- - <a name="todo"></a> Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-Shot Learning (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Attribute_Surrogates_Learning_and_Spectral_Tokens_Pooling_in_Transformers_for_CVPR_2022_paper.pdf)]
-- - <a name="todo"></a> Ranking Distance Calibration for Cross-Domain Few-Shot Learning (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Ranking_Distance_Calibration_for_Cross-Domain_Few-Shot_Learning_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> Integrative Few-Shot Learning for Classification and Segmentation (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Integrative_Few-Shot_Learning_for_Classification_and_Segmentation_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> Semi-Supervised Few-Shot Learning via Multi-Factor Clustering (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Ling_Semi-Supervised_Few-Shot_Learning_via_Multi-Factor_Clustering_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> Cross-Domain Few-Shot Learning With Task-Specific Adapters (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Few-Shot_Learning_With_Task-Specific_Adapters_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
- (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> Few-Shot Learning With Noisy Labels
- (**cvpr2022**) [[paper]https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Few-Shot_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf]
-- - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
-- - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
-- - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
-- - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
+- <a name="todo"></a> Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-Shot Learning (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Attribute_Surrogates_Learning_and_Spectral_Tokens_Pooling_in_Transformers_for_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Ranking Distance Calibration for Cross-Domain Few-Shot Learning (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Ranking_Distance_Calibration_for_Cross-Domain_Few-Shot_Learning_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Integrative Few-Shot Learning for Classification and Segmentation (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Integrative_Few-Shot_Learning_for_Classification_and_Segmentation_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Semi-Supervised Few-Shot Learning via Multi-Factor Clustering (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ling_Semi-Supervised_Few-Shot_Learning_via_Multi-Factor_Clustering_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Cross-Domain Few-Shot Learning With Task-Specific Adapters (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Few-Shot_Learning_With_Task-Specific_Adapters_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning
+ (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf)]
+- <a name="todo"></a> Few-Shot Learning With Noisy Labels
+ (**cvpr2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Few-Shot_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf)]
 - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
 - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
-- 
+- <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
+- <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
+- <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
+- <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
 - <a name="todo"></a> On the Importance of Firth Bias Reduction in Few-Shot Classification (**ICLR2022**) [[paper](https://openreview.net/pdf?id=DNRADop4ksB)]
 - <a name="todo"></a> Continuous-Time Meta-Learning with Forward Mode Differentiation (**ICLR2022**) [[paper](https://openreview.net/pdf?id=57PipS27Km)]
 - <a name="todo"></a> Finetuned Language Models are Zero-Shot Learners (**ICLR2022**) [[paper](https://openreview.net/pdf?id=gEZrGCozdqR)]
